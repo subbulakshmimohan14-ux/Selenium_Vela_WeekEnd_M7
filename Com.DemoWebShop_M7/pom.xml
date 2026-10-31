@@ -5,6 +5,12 @@
 	<groupId>Qspiders</groupId>
 	<artifactId>Com.DemoWebShop_M7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<properties>
+    <maven.compiler.source>25</maven.compiler.source>
+    <maven.compiler.target>25</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties> 
+
 
 	<dependencies>
 

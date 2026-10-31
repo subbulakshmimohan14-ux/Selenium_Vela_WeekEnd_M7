@@ -1,5 +1,6 @@
 package Students;
 
-public class NathiyaSubbu {
+public class NathiyaSubbu
+{
 
 }
